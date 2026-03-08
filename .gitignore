@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+config.local.json
+output/
+debug_page.html
+debug_screenshot.png
+price_check_results.json
+
+alarm/*
+!alarm/boom.mp3
